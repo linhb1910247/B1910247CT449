@@ -7,16 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BaoTri1/CT449.git"
-  },
+  
   "author": "Pham Bao Tri",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BaoTri1/CT449/issues"
-  },
-  "homepage": "https://github.com/BaoTri1/CT449#readme",
+  
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
